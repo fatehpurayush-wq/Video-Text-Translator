@@ -1,0 +1,6 @@
+{
+  "name": "Video Text Translator",
+  "description": "Offline on-device video text OCR, speech recognition, and multi-language translator with side-by-side Hinglish editor, multi-format export, and MP4 caption burn-in.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
